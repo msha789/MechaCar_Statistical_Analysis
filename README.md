@@ -4,15 +4,6 @@
 
 The following analysis, using R and R-Studio, is to provide review the production data for insights that may help the manufacturing team for AutoRUs with their newest prototype which is currently suffering from production troubles. 
 
-## Deliverables
-This assignment consists of three technical analysis deliverables and a proposal for further statistical study, including: 
-
-1. ***Deliverable 1:*** Linear Regression to Predict MPG
-2. ***Deliverable 2:*** Summary Statistics on Suspension Coils
-3. ***Deliverable 3:*** T-Test on Suspension Coils
-4. ***Deliverable 4:*** Design a Study Comparing the MechaCar to the Competition
-
-# Deliverable 1:  
 ## Linear Regression to Predict MPG
 
 **Statistical Summary:** 

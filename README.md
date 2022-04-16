@@ -24,7 +24,7 @@ P-values (probability values) for the above variables are smaller than our signi
 According to the summary output, the r-squared value is 0.71, which predicts that approximately 71% of all mpg predictions will be correct when using this linear model. In addition, the p-value of the linear model is 5.35e-11 (last line of the above picture in the F-statistic results), which is smaller than the desired significance level of 0.05. 
 
 ## Summary Statistics on Suspension Coils
-![Pic]()
+![Pic](https://github.com/msha789/MechaCar_Statistical_Analysis/blob/fab62b7d92cb1bbbb80e6399b27f5aab9b192288/Screen%20Shot%202022-04-15%20at%207.19.39%20PM.png)
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 

@@ -60,4 +60,3 @@ I recommend using the t-test to compare our dataset with the competitors. The t-
 
 ### What data is needed to run the statistical test?
 The p-value would be set at 0.05. Data that results in a prediction of a p-value smaller than 0.05 would provide predictive evidence that the null hypothesis could be rejected and state that the Ha is true. Providing evidence that the Ha is true would also predict that the MechaCar provides consistently better fuel efficiency than the competitors mpg. There is always room for error and better fuel efficiency may not happen all of the time, but at least 95% of the time.
-![image](https://user-images.githubusercontent.com/96354695/163655569-6492612e-8ab3-44e9-966e-781aaf3723ff.png)

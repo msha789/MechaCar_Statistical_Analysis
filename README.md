@@ -7,7 +7,7 @@ The following analysis, using R and R-Studio, is to provide review the productio
 ## Linear Regression to Predict MPG
 
 **Statistical Summary:** 
-![d1]()
+![d1](https://github.com/msha789/MechaCar_Statistical_Analysis/blob/dd53e671ec7114bc57c06e45d9ec16a06390319b/Screen%20Shot%202022-04-15%20at%207.18.22%20PM.png)
 
 ### Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 From the dataset results it is possible to predict that the following variables/coefficients provided a non-random amount of variance to the mpg values: 

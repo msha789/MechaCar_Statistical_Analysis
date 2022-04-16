@@ -24,21 +24,19 @@ P-values (probability values) for the above variables are smaller than our signi
 According to the summary output, the r-squared value is 0.71, which predicts that approximately 71% of all mpg predictions will be correct when using this linear model. In addition, the p-value of the linear model is 5.35e-11 (last line of the above picture in the F-statistic results), which is smaller than the desired significance level of 0.05. 
 
 ## Summary Statistics on Suspension Coils
-![Pic](https://github.com/msha789/MechaCar_Statistical_Analysis/blob/fab62b7d92cb1bbbb80e6399b27f5aab9b192288/Screen%20Shot%202022-04-15%20at%207.19.39%20PM.png)
+![Pic](https://github.com/msha789/MechaCar_Statistical_Analysis/blob/9b9b23066a8e1506995abc1b2ed27d65273248f9/Screen%20Shot%202022-04-15%20at%209.10.08%20PM.png)
+
+![Pic](https://github.com/msha789/MechaCar_Statistical_Analysis/blob/9b9b23066a8e1506995abc1b2ed27d65273248f9/Screen%20Shot%202022-04-15%20at%209.10.20%20PM.png)
 
 ### The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-![Pic]()
-
 The 'total_summary' for all 3 lots reveals the mean is steady at 1498.78 in all 150 rows of the total_summary table. The variance is reported at 62.29356 for all 150 rows of the total_summary table. The standard deviation is reported at 7.892627 for all 150 rows of the total_summary table. The median value of the table varies between 1452 and 1542. The variance of the PSI sample distribution and the standard deviation are well within the design specifications for all 3 lots and does not exceed 100 pounds per square inch.
-
-![Pic]()
 
 Results of data analysis on the 3 suspension coil lots predicts that Lot 1 and Lot 2 meet design specification because the variance and standard deviation are under 100 pounds per square inch. However, Lot 3 does not predict to design specifications because variance and standard deviation are greater than 100 pounds per square inch.
 
 ## T-Tests on Suspension Coils
 
-![Pic]()
+![Pic](https://github.com/msha789/MechaCar_Statistical_Analysis/blob/fab62b7d92cb1bbbb80e6399b27f5aab9b192288/Screen%20Shot%202022-04-15%20at%207.19.39%20PM.png)
 
 The results of the t-test analysis reveals that the p-value for all lots is 0.06028 which is outside the signifigance level of 0.05 resulting in a confidence interval of 93.972%. Based on this prediction, there is not sufficient evidence to reject the null hypothesis. It may be stated that the dataset mean and the population mean are statistically similar. Also, the analysis predicts that the suspension coils dataset is statistically representative of the population mean. 
 
